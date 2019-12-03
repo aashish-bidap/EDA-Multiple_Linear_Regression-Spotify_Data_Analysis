@@ -10,6 +10,6 @@ A more detailed explanation of the audio features can be found in the Metadata t
 
 <b>As part of Analysis below questions are taken into consideration.</b><br>
 1.Looking for patterns in the audio features of the songs.<br>
-2.Trying to predict one audio feature based on the others<br>
-3.See which features correlate the most<br>
+2.Trying to predict one audio feature based on the others.<br>
+3.See which features correlate the most.<br>
 
